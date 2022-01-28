@@ -1,0 +1,102 @@
+.body {
+  min-height: 200px;
+}
+
+.sambutan {
+  padding: 2rem 1rem;
+}
+
+.sambutan h2 {
+  padding-bottom: 2rem;
+}
+
+#visi-misi {
+  padding: 20px;
+}
+
+#berita h2 {
+  padding: 30px 0 20px 0;
+}
+
+#sambutan {
+  padding: 5rem;
+}
+
+#sambutan h1 {
+  padding-bottom: 20px;
+}
+
+#sejarah {
+  padding: 0rem 1rem 2rem 1rem;
+}
+#sejarah h1 {
+  padding-bottom: 20px;
+}
+
+#struktur-organisasi {
+  padding: 0rem 1rem 2rem 1rem;
+}
+#struktur-organisasi h1 {
+  padding-bottom: 20px;
+}
+
+#guru {
+  padding: 0rem 1rem 2rem 1rem;
+}
+#guru h1 {
+  padding-bottom: 20px;
+}
+
+#fasilitas {
+  padding: 0rem 1rem 2rem 1rem;
+}
+#fasilitas h1 {
+  padding-bottom: 20px;
+}
+
+#program {
+  padding: 0rem 1rem 2rem 1rem;
+}
+#program h1 {
+  padding-bottom: 20px;
+}
+
+#ekskul {
+  padding: 0rem 1rem 2rem 1rem;
+}
+#ekskul h1 {
+  padding-bottom: 20px;
+}
+
+#berita {
+  padding: 0rem 1rem 2rem 1rem;
+}
+#berita h1 {
+  padding-bottom: 20px;
+}
+
+#prestasi {
+  padding: 0rem 1rem 2rem 1rem;
+}
+#prestasi h1 {
+  padding-bottom: 20px;
+}
+
+#galery {
+  padding: 0rem 1rem 2rem 1rem;
+}
+#galery h1 {
+  padding-bottom: 20px;
+}
+
+#kontak {
+  padding-top: 50px;
+}
+
+.pendidik {
+  padding-top: 20px;
+}
+
+#button {
+  padding: 10px;
+}
